@@ -1,13 +1,13 @@
-////
-////  KCMainViewController.h
-////  UIWebView
-////
-////  Created by Kenshin Cui on 14-3-22.
-////  Copyright (c) 2014年 Kenshin Cui. All rights reserved.
-////
 //
-//#import <UIKit/UIKit.h>
+//  KCMainViewController.h
+//  UIWebView
 //
-//@interface KCMainViewController : UIViewController
+//  Created by Kenshin Cui on 14-3-22.
+//  Copyright (c) 2014年 Kenshin Cui. All rights reserved.
 //
-//@end
+
+#import <UIKit/UIKit.h>
+
+@interface KCMainViewController : UIViewController
+
+@end
